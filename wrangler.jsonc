@@ -1,5 +1,5 @@
 {
-  "name": "botnetkiller",
+  "name": "steep-bush-4938",
   "main": "src/worker/index.ts",
   "compatibility_flags": ["nodejs_compat"],
   "compatibility_date": "2025-09-17",
